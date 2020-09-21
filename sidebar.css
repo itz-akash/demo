@@ -1,0 +1,76 @@
+
+h4{
+    font-family: proxima nova;
+    font-weight: 2000;
+    font-size: 130%;
+    padding: 0;margin: 0;
+    
+    
+}
+body{
+    background-color: #2e86de
+    
+}
+li{
+    color: #fff;
+    border-bottom: 2px solid rgba(255,255,255,0.10);
+}
+li a{
+    color: white;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 20px;
+}
+a{
+    font-family: proxima nova;
+    color: white;
+    text-decoration: none;
+}
+a.sachin:hover{
+    background-color: whitesmoke;
+    color: #2e86de;
+    transform: scale(1.3);
+}
+a.sachin{
+    transition: 1s;
+    font-weight: 200;
+    
+}
+a.dhoni:hover{
+    background-color: whitesmoke;
+    color: #2e86de;
+    transform: scale(1.3);
+}
+
+a.dhoni{
+    transition: 1s;
+    
+}
+a.kohli:hover{
+    background-color: whitesmoke;
+    color: #2e86de;
+    transform: scale(1.3);
+}
+a.kohli{
+    transition: 1s;
+    
+}
+    a.rohit:hover{
+    background-color: whitesmoke;
+    color: #2e86de;
+    transform: scale(1.3);
+}    
+a.rohit{
+    transition: 1s;
+    
+}
+    a.jasprit:hover{
+    background-color: whitesmoke;
+    color: #2e86de;
+    transform: scale(1.3);
+}
+a.jasprit{
+    transition: 1s;
+}
+    
